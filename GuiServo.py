@@ -34,19 +34,3 @@ gui.guiGrid()
 
 # GUI startup
 gui.start()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
